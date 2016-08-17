@@ -1,2 +1,2 @@
 # CVaRProject
-Replication of Credit Manager CVaR mathodology
+Replication of Credit Manager CVaR methodology
